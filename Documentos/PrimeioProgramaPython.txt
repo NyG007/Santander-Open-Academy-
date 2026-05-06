@@ -1,0 +1,67 @@
+### “Olá Mundo”
+
+è uma tradição no mundo da programação começar com um programa simples chamado “Olá Mundo”. Este programa simplesmente mostra a mensagem “Olá Mundo” na tela.
+
+- Abra seu IDE ou editor de texto e crie um novo arquivo.
+- Nomeie o arquivo como “ola_mundo.py”. “.py” indica que é um arquivo de Python.
+- No arquivo, escreva o seguinte código:
+`print ("Olá, Mundo!")`
+- Salve o arquivo e execute o programa. Se tiver utilizando IDE, procure a opção “Run” ou “Execute”.
+
+Você verá uma mensagem “Olá, Mundo!” é impressa na tela.
+
+### Conceitos básicos da sintaxe em Python
+
+antes de mergulhamos em conceitos mais avançados, é importante familiarizar-se com alguns aspectos básicos da sintaxe do Python.
+
+- Indentação
+
+NO Python, a indentação (espaços ou tabulações no inicio de uma linha) é utilizara para delimitar blocos de código. Diferente de outras linguagens que utilizam chaves ou palavras-chave, o Python utiliza a identação para determinar o escopo das declarações. Por exemplo:
+
+```
+if condition:
+
+    # Bloco de código se a condição for verdadeira
+
+    instrucao1
+    instrucao2
+
+else:
+
+    # Bloco de código se a condição for falsa
+
+    instrucao3
+    instrucao4
+```
+
+#### Importante
+
+è fundamental mantes uma indentação consistente em todo o código para evitar erros de sintaxe. 
+
+- Comentários
+
+Os comentários são linhas de texto no código que são ignoradas pelo interpretador do Python. Eles são utilizados para explicar ou documentar o código. No Python os comentários de uma única linha começam com o símbolo #, enquanto os comentários de várias linhas são determinados por tês aspas “””. Por Exemplo:
+
+```
+# Este é um comentário de uma única linha
+
+"""
+Este é um comentário
+de várias linhas
+"""
+```
+
+- Sensibilidade a maiúsculas e minúsculas
+
+Python distingue entre maiúsculas e minúsculas. Portanto, variável, Variável, VARIÁVEL são consideradas variáveis diferentes.
+
+- Ponto e Vírgula
+
+Diferente de outras linguagens, o Python não requer o uso de ponto e vírgula (;) ao final de ada instrução. no entanto, se você deseja escrever várias instruções em uma única linha, pode separá-las com um ponto e vírgula. Por exemplo:
+`instrucao1; instrucao2; instrucao3` 
+
+- Uso de parênteses
+
+Os parênteses são utilizados para agrupar expressões, definir funções e realizar chamadas a funções. Por exemplo:
+
+`resultado = (a + b) * c`
