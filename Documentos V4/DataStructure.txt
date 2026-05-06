@@ -11,7 +11,7 @@ Uma lista é uma estrutura de dados mutável e ordenada que permite armazenar um
 para criar uma lista, simplesmente encerre os elemento entre colchetes:
 
 ```python
-frutas = ["maça", "banana", "laranaja"]
+frutas = ["maça", "banana", "laranja"]
 ```
 
 Para acessar os elementos de uma lista, utilize o indicie de elemento entre colchetes. Os indicies começam a partir de 0.
@@ -36,7 +36,7 @@ As listas em Python têm vários métodos incorporados que nos permitem manipula
 
 - **append (elemento) :** adiciona um elemento ao final da lista.
 - **insert (índice, elemento) :** insere um elemento em uma posição específica da lista.
-- **remove (elemento) :** remove a primeira ocorreência de um elemento na lista.
+- **remove (elemento) :** remove a primeira ocorrência de um elemento na lista.
 - **pop (índice) :** remove e retorna o elemento em uma posição específica da lista.
 - **sort() :** ordena os elementos da lista em ordem ascendente.
 - **reverse() :** inverte a ordem dos elementos na lista.
