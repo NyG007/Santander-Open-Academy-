@@ -6,18 +6,23 @@
         "Booleanos",
         "booleanso",
         "condicao",
+        "diferenca",
         "divisao",
         "elif",
         "exponenciacao",
         "identação",
         "indentação",
         "instrucao",
+        "intersecao",
         "jupyter",
         "Matplotib",
         "multiplicacao",
+        "numeros",
         "Pygame",
         "Rossum",
         "Scikit",
-        "subtracao"
+        "simetrica",
+        "subtracao",
+        "uniao"
     ]
 }
