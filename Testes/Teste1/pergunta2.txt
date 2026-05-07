@@ -1,0 +1,40 @@
+Pergunta 2 teste 1
+**1 ponto**
+
+Qual afirmação é verdadeira sobre o código a seguir em Python?
+
+```python
+def multiplicar (a,b):
+ return a*b
+
+resultado = multiplicar(5,3) + multiplicar (2,4)
+```
+
+Grupo de escolhas da pergunta
+
+- [x]  a) A função multiplicar é chamada duas vezes e os resultados são somados.
+- [ ]  b) A função multiplicar é chamada uma vez com os argumentos (5, 3, 2, 4).
+- [ ]  c) O código irá gerar um erro porque a função de multiplicação não aceita quatro argumentos.
+- [ ]  d) O resultado será igual a 5*3*2*4.
+
+Destrinchar esse código juntos antes de marcar a alternativa.
+
+O código é:
+
+```python
+def multiplicar(a, b):
+    return a * b
+
+resultado = multiplicar(5, 3) + multiplicar(2, 4)
+```
+
+- A função `multiplicar` recebe **dois** parâmetros (`a` e `b`) e devolve o produto `a * b`.
+- Na linha do `resultado`, essa função é usada **duas vezes**: uma com `(5, 3)` e outra com `(2, 4)`, e depois os dois resultados são somados.
+
+Ou seja:
+
+- `multiplicar(5, 3)` calcula `5 * 3`.
+- `multiplicar(2, 4)` calcula `2 * 4`.
+- Depois faz a soma desses dois valores.
+
+Por isso, a afirmação verdadeira é a **letra a)**:
