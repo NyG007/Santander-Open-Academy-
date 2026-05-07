@@ -4,7 +4,7 @@ AS funções são blocos de código reutilizáveis que nos permitem encapsular t
 
 ## Definição e chamada de funções
 
-para definier uma função Python, utilizamos a palavra-chave def seguida do nome da função e parênteses. Opcionalmente, podemos especificar parâmetros dentro dos parênteses. O bloco de código da função é indentado após os dois pontos.
+para definir uma função Python, utilizamos a palavra-chave def seguida do nome da função e parênteses. Opcionalmente, podemos especificar parâmetros dentro dos parênteses. O bloco de código da função é indentado após os dois pontos.
 
 Para chamar uma função, simplesmente escrevemos o nome da função seguindo parênteses:
 
