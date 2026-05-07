@@ -1,0 +1,20 @@
+Pergunta 3 Teste 1
+**1 ponto**
+
+Qual estrutura de dados em Python é usada para armazenar uma coleção ordenada e mutável de elementos?
+
+Grupo de escolhas da pergunta
+
+- [ ]  a) Tupla
+- [x]  b) Lista
+- [ ]  c) Conjuntos
+- [ ]  d) Dicionário
+
+Essa é de teoria de Python.
+
+A pergunta pede: **coleção ordenada e mutável de elementos**.
+
+- **Lista (`list`)** coleção **ordenada** (mantém a ordem de inserção) e **mutável** (você pode adicionar, remover e alterar itens).
+- **Tupla (`tuple`)** é ordenada, mas **imutável**.
+- **Conjunto (`set`)** não é ordenado.
+- **Dicionário (`dict`)** é coleção de pares chave-valor, não “só” uma coleção simples de elementos.
