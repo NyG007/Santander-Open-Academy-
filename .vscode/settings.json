@@ -8,10 +8,13 @@
         "condicao",
         "diferenca",
         "divisao",
+        "docstrings",
         "elif",
         "exponenciacao",
+        "funcao",
         "identação",
         "indentação",
+        "indentado",
         "instrucao",
         "intersecao",
         "jupyter",
@@ -19,11 +22,15 @@
         "multiplicacao",
         "numeros",
         "Pygame",
+        "retangulo",
         "Rossum",
+        "saudacao",
         "Scikit",
         "señao",
         "simetrica",
         "subtracao",
-        "uniao"
+        "uniao",
+        "variavel",
+        "vaviavel"
     ]
 }
