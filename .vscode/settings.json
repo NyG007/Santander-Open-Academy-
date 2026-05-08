@@ -21,8 +21,10 @@
         "intersecao",
         "jupyter",
         "Matplotib",
+        "modulos",
         "multiplicacao",
         "numeros",
+        "operacoes",
         "Pygame",
         "randint",
         "readlines",
@@ -34,6 +36,7 @@
         "simetrica",
         "subtracao",
         "uniao",
+        "usuario",
         "variavel",
         "vaviavel"
     ]
