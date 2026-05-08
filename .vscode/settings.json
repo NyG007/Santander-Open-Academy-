@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "aleatorio",
         "apariação",
         "booleano",
         "booleanos",
@@ -23,6 +24,7 @@
         "multiplicacao",
         "numeros",
         "Pygame",
+        "randint",
         "readlines",
         "retangulo",
         "Rossum",
